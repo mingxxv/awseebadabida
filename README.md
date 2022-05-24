@@ -1,3 +1,5 @@
 # Aw See Bada Bida Generator
-``` node awseebadabida.js```
+``` node awseebadabida```
+
+have fun lmao
 
