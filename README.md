@@ -1,2 +1,3 @@
-# awseebadabida
-Aw See Bada Bida generator
+# Aw See Bada Bida Generator
+``` node awseebadabida.js```
+
