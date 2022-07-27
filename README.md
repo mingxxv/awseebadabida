@@ -1,5 +1,5 @@
 # Aw See Bada Bida Generator
 ``` node awseebadabida```
 
-have fun lmao
+Inspired from a TikTok meme. No Rights Deserved.
 
